@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Table1Heatmap"]
 	path = Table1Heatmap
 	url = https://github.com/cran/Table1Heatmap
-	shallow = true
-	registered = true
